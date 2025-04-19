@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+
+# Mbed
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+compile_commands.json
+.clangd
+.cache
+mbedlibrarycollection
+blueSMIRF
