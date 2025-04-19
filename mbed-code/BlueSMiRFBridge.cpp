@@ -1,3 +1,4 @@
+// Written by Zachary Seletsky with AI assistance.
 
 #include "BlueSMiRFBridge.h"
     

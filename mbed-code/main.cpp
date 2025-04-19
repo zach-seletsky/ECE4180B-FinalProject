@@ -1,12 +1,3 @@
-/*  BlueSMiRF real‑time bridge + helper shell
- *  ----------------------------------------------------------
- *  Purpose : Forward bytes between PC‑USB and BlueSMiRF UART
- *            so you can interactively send / view AT commands.
- *            Lines that start with '~' are handled locally.
- *  Result  : Transparent pass‑through plus quick helper tools.
- *  Author  : Zach & ChatGPT
- *  Board   : mbed LPC1768 (freestanding, no <cstring>)
- */
 
 #include "mbed.h"
 #include <cstring>
