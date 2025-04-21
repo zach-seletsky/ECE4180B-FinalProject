@@ -43,7 +43,5 @@ BUILD
 compile_commands.json
 .clangd
 .cache
-mbedlibrarycollection
-blueSMIRF
 
 .DS_Store
