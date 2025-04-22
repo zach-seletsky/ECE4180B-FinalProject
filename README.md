@@ -2,7 +2,10 @@
 ## By Zachary Seletsky
 ---
 ### Overview
-This repository details my final project for ECE4180 at Georgia Tech.
+This repository details my final project for ECE4180 at Georgia Tech.  
+
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/a50d0a30-ac5f-45a0-9b58-809d950db67a" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/92cee1e6-7135-4962-8ec8-d218db93cca3" align="center" height=48% width=48% ></a>
 
 #### Mbed Code
 All the mbed code is in the folder mbed-code. I used the following existing libraries: 
@@ -24,7 +27,9 @@ All other files were written by myself.
 #### Physical Implementation
 Below is a diagram depicting the implementation of the Arduino Due and Mbed NXP LPC1768 implementation. Note the 7.4V line from the battery for the car is connected to VIN.
 
-![finalprojdiagram](https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/19fde137-0650-45da-9367-45f88b11d809)
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/27f5b4fd-edf7-4cf6-880b-ae480a10bdde" align="center" height=78% width=78% ></a> 
+
+
 
 
 ### Written Report
@@ -51,3 +56,25 @@ There are quite a few areas of improvements for this project. Firstly, the ultra
 
 #### Conclusion
 This project was a lot of fun for me. It required me to use skills in every area of embedded systems, from physical/mechanical aspects to power management to UI design. This required a type of creativity that is not common in academic technical spaces. Overall, I learned a lot from this project and I now have a comprehensive product that I can reference while searching for jobs to launch my professional career.
+
+
+### Images
+
+#### 3D-Print Screenshots
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/99b0871b-1ae3-4427-892b-016a5655756e" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/79bf4793-4166-4a2f-8ac0-d1461780d531" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/1a0e798e-898d-4de7-b4a3-89303989fd21" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/ad11fd70-0433-4781-82ff-9f6af9ed8d8e" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/b4810f0e-500c-4c34-886f-48ad2a7598a0" align="center" height=48% width=48% ></a>
+
+#### Pictures
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/a50d0a30-ac5f-45a0-9b58-809d950db67a" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/92cee1e6-7135-4962-8ec8-d218db93cca3" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/cfac7942-4240-49eb-9be7-ee87e3400ae9" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/c20c616c-e609-449e-9b90-068b2539d5b7" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/6e37ce22-85c7-45d9-a791-7fd875646198" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/57e82be5-b12c-4858-bbae-05dd0af52460" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/ee79cc5a-58e4-4199-8bec-b37ebdb72d28" align="center" height=48% width=48% ></a>
+<a href="url"><img src="https://github.gatech.edu/zseletsky3/ECE4180BFinalProject/assets/46628/8a060de2-9857-4cf2-99bd-1789a87703a7" align="center" height=48% width=48% ></a>
+
+
